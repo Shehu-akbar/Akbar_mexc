@@ -1,2 +1,1 @@
-# Akbar_mexc
-📊 Live TradingView BTC chart 💼 Improved exchange dashboard layout 🔘 “Connect Wallet” button (Web3 ready UI) 📈 Market + trade panels like real exchanges 🧠 Clean footer branding
+Akbar_Mexc is a next-generation cryptocurrency trading platform designed to provide users with secure, fast, and reliable access to global digital markets.
